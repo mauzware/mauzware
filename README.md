@@ -1,4 +1,4 @@
-![Anonymous2](https://github.com/m4uzw4r3/m4uzw4r3/blob/main/anonymous%20gif%202.gif?raw=true)
+<img src="https://github.com/m4uzw4r3/m4uzw4r3/blob/main/anonymous%20gif%202.gif?raw=true" width="100%"/>
 
 
 
