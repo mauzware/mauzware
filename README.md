@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**m4uzw4r3/m4uzw4r3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mauzware, also known as Jerry, I'm an Ethical Hacker & Security Researcher and aspiring Cybersecurity Specialist & Penetretation Tester. I do a fair bit of coding as well! With a strong passion for technology and expertise in vulnerability assessment, payload creation and programming languages, my goal is to safeguard digital assets and learn literally everything about digital world.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Present Status
+
+👉 Still Learning Bug hunting & Web Application Pentesting.
+
+👉 Writing Some Useful Tools For Myself & Communities.
+
+👉 Always Open to Building & Contributing to Open Source Projects!
+
+👉 Currently Learning Mobile Pentesting & Reverse Engineering
+
+👉 Currently Pursuing CompTIA Security+ & CEH Certifications
+
+⚡ Fun fact: I'm a Hardcore Gamer duuuuh...
+
+📫 Feel Free To Reach Out If You Want To Hack Or Learn Together! But Before That Just Buy Get Me A Cookie... 🍪
+
+## Knowledge Skills
