@@ -1,12 +1,17 @@
 <img src="https://github.com/mauzware/mauzware/blob/main/anonymous%20gif%202.gif?raw=true" width="100%"/>
 
 
-
-## Hi there 👋
-
-🐭🐁 My name is Mauzware, also known as Jerry, I'm an Ethical Hacker & Security Researcher and aspiring Cybersecurity Specialist & Penetretation Tester. I do a fair bit of coding as well! With a strong passion for technology and expertise in vulnerability assessment, payload creation and programming languages, my goal is to safeguard digital assets and learn literally everything about digital world. And yes, I am a mouse!!! 🐭🐁
-
-<img src="https://github.com/mauzware/mauzware/blob/main/anonymous%20logo%20gif.gif?raw=true"/>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 20px;">
+  <h2>Hi there 👋</h2>
+  <p>
+  🐭🐁 My name is Mauzware, also known as Jerry, I'm an Ethical Hacker & Security Researcher and aspiring Cybersecurity Specialist & Penetretation Tester. I do a fair bit of coding as well! With a strong passion for technology and expertise in vulnerability assessment, payload creation and programming languages, my goal is to safeguard digital assets and learn literally everything about digital world. And yes, I am a mouse!!! 🐭🐁
+  </p>
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="https://github.com/mauzware/mauzware/blob/main/anonymous%20logo%20gif.gif?raw=true" width="250px" style="background: transparent;"/>
+  </div>
+</div>
 
 ## Present Status
 
@@ -24,4 +29,6 @@
 
 📫 Feel Free To Reach Out If You Want To Hack Or Learn Together! But Before That Just Buy Get Me A Cookie... 🍪
 
-## Knowledge Skills
+## Knowledge and Skills
+
+
