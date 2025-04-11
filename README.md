@@ -14,22 +14,35 @@
 
 
 
-## Present Status
+## Present Status 📊
 
-👉 Still learning Bug Hunting & Web Application Pentesting.
+👉 Still learning Bug Hunting & Web Application Pentesting. 🐞
 
-👉 Writing some useful tools for myself & communities.
+👉 Writing some useful tools for myself & communities. 💻
 
-👉 Always open to building & contributing to Open Source projects!
+👉 Always open to building & contributing to Open Source projects! 🦾
 
-👉 Currently learning Mobile Pentesting & Reverse Engineering
+👉 Currently learning Mobile Pentesting & Reverse Engineering. 📱
 
-👉 Currently pursuing CompTIA Security+ & CEH Certifications
+👉 Currently pursuing CompTIA Security+ & CEH Certifications. 📜
 
-⚡ Fun Fact: yeah, I'm a hardcore gamer duuuuh...
+⚡ Fun Fact: yeah, I'm a hardcore gamer duuuuh... 🎮
 
-📫 Feel Free To Reach Out If You Want To Hack Or Learn Together! But Before That Just Buy Get Me A Cookie... 🍪
+📫 Feel free to reach out if you want to Hack or Learn together! But before you do that, just get me a Cookie... 🍪
 
-## Knowledge and Skills
+## Knowledge and Skills 💡
+
+<img src="https://github.com/mauzware/mauzware/blob/main/metsploit.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/Burp.png" style="height: 30px; width: 150px;"/>
+<img src="https://github.com/mauzware/mauzware/blob/main/Wireshark.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/Linux.png" style="height: 30px; width: 150px;"/>
+<img src="https://github.com/mauzware/mauzware/blob/main/Windows.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/Git.png" style="height: 30px; width: 150px;"/>
+<img src="https://github.com/mauzware/mauzware/blob/main/python.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/PostgreSQL.png" style="height: 30px; width: 150px;"/>
+<img src="https://github.com/mauzware/mauzware/blob/main/MySQL.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/Bash.png" style="height: 30px; width: 150px;"/>
+<img src="https://github.com/mauzware/mauzware/blob/main/VS%20Code.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/HTML.png" style="height: 60px; width: 60px;"/>
+<img src="https://github.com/mauzware/mauzware/blob/main/CSS.png" style="height: 60px; width: 60px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/JavaScript.png" style="height: 60px; width: 60px;"/>
+
+
+## Fun Section 😎
+
+Coming soon...
 
 
