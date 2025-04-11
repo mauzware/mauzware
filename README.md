@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-My name is Mauzware, also known as Jerry, I'm an Ethical Hacker & Security Researcher and aspiring Cybersecurity Specialist & Penetretation Tester. I do a fair bit of coding as well! With a strong passion for technology and expertise in vulnerability assessment, payload creation and programming languages, my goal is to safeguard digital assets and learn literally everything about digital world. And yes, I am a mouse!!! 🐭🐁
+🐭🐁 My name is Mauzware, also known as Jerry, I'm an Ethical Hacker & Security Researcher and aspiring Cybersecurity Specialist & Penetretation Tester. I do a fair bit of coding as well! With a strong passion for technology and expertise in vulnerability assessment, payload creation and programming languages, my goal is to safeguard digital assets and learn literally everything about digital world. And yes, I am a mouse!!! 🐭🐁
 
 
 ## Present Status
