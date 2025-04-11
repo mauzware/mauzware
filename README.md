@@ -39,19 +39,15 @@
 
 ## Knowledge / Skills / Tools 💡
 
-<table align="center">
-  <tr>
-    <td align="center" style="background-color: white; padding: 10px; style="border: none; border="0";">
-      <img src="https://github.com/mauzware/mauzware/blob/main/metasploit.png" style="height:30px; width:150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/Burp.png" style="height:30px; width:150px;"/>
-      <img src="https://github.com/mauzware/mauzware/blob/main/Wireshark.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/Linux.png" style="height: 30px; width: 150px;"/>
-      <img src="https://github.com/mauzware/mauzware/blob/main/Windows.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/Git.png" style="height: 30px; width: 150px;"/>
-      <img src="https://github.com/mauzware/mauzware/blob/main/python.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/PostgreSQL.png" style="height: 30px; width: 150px;"/>
-      <img src="https://github.com/mauzware/mauzware/blob/main/MySQL.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/Bash.png" style="height: 30px; width: 150px;"/>
-      <img src="https://github.com/mauzware/mauzware/blob/main/VS_Code.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/HTML.png" style="height: 60px; width: 60px;"/>
-      <img src="https://github.com/mauzware/mauzware/blob/main/CSS.png" style="height: 60px; width: 60px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/JavaScript.png" style="height: 60px; width: 60px;"/>
-    </td>
-  </tr>
-</table>
+
+<img src="https://github.com/mauzware/mauzware/blob/main/metasploit.png" style="height:30px; width:150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/Burp.png" style="height:30px; width:150px;"/>
+<img src="https://github.com/mauzware/mauzware/blob/main/Wireshark.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/Linux.png" style="height: 30px; width: 150px;"/>
+<img src="https://github.com/mauzware/mauzware/blob/main/Windows.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/Git.png" style="height: 30px; width: 150px;"/>
+<img src="https://github.com/mauzware/mauzware/blob/main/python.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/PostgreSQL.png" style="height: 30px; width: 150px;"/>
+<img src="https://github.com/mauzware/mauzware/blob/main/MySQL.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/Bash.png" style="height: 30px; width: 150px;"/>
+<img src="https://github.com/mauzware/mauzware/blob/main/VS_Code.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/HTML.png" style="height: 60px; width: 60px;"/>
+<img src="https://github.com/mauzware/mauzware/blob/main/CSS.png" style="height: 60px; width: 60px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/JavaScript.png" style="height: 60px; width: 60px;"/>
+
 
 
 ## Fun Section 😎
