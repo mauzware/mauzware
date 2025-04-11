@@ -27,7 +27,7 @@
 👉 Always open to building & contributing to Open Source projects! 🦾  
 👉 Currently learning Mobile Pentesting & Reverse Engineering. 📱  
 👉 Currently pursuing CompTIA Security+ & CEH Certifications. 📜  
-⚡ Fun Fact: yeah, I'm a hardcore gamer duuuuh... 🎮  
+⚡ Fun fact: yeah, I'm a hardcore gamer duuuuh... 🎮  
 📫 Feel free to reach out if you want to Hack or Learn together! Before you do that, just get me a Cookie 🍪  
 
 </td>
@@ -52,7 +52,7 @@
 
 ## Fun Section 😎
 
-Coming soon...
+<i>Since I'm always making good jokes people call me Joka...Got it...???</i> 
 
-<img src="https://github.com/mauzware/mauzware/blob/main/me%20life%20gif.gif?raw=true" width="200" height="200"/> <img src="https://github.com/mauzware/mauzware/blob/main/jerry%20gif%202.gif?raw=true" width="200" height="200"/>
-
+<img src="https://github.com/mauzware/mauzware/blob/main/DAJOKA.png" height= 300 width=200/><img src="https://github.com/mauzware/mauzware/blob/main/me%20life%20gif.gif?raw=true" width="200" height="200"/> <img src="https://github.com/mauzware/mauzware/blob/main/jerry%20gif%202.gif?raw=true" width="200" height="200"/>
+<i>(no one calls me that tho)</i>
