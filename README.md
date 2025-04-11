@@ -28,7 +28,7 @@
 👉 Currently learning Mobile Pentesting & Reverse Engineering. 📱  
 👉 Currently pursuing CompTIA Security+ & CEH Certifications. 📜  
 ⚡ Fun Fact: yeah, I'm a hardcore gamer duuuuh... 🎮  
-📫 Feel free to reach out if you want to Hack or Learn together! But before you do that, just get me a Cookie 🍪  
+📫 Feel free to reach out if you want to Hack or Learn together! Before you do that, just get me a Cookie 🍪  
 
 </td>
 <td style="border: none; border="0";">
