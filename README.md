@@ -32,7 +32,7 @@
 
 </td>
 <td style="border: none; border="0";">
-  <img src="https://github.com/mauzware/mauzware/blob/main/jerry%20gif.gif?raw=true" width="110px" height="200px">
+  <img src="https://github.com/mauzware/mauzware/blob/main/jerry%20gif.gif?raw=true" width="105px" height="200px">
 </td>
 </tr>
 </table>
