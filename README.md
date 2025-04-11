@@ -30,7 +30,7 @@
 
 📫 Feel free to reach out if you want to Hack or Learn together! But before you do that, just get me a Cookie... 🍪
 
-## Knowledge and Skills 💡
+## Knowledge / Skills / Tools 💡
 
 <img src="https://github.com/mauzware/mauzware/blob/main/metsploit.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/Burp.png" style="height: 30px; width: 150px;"/>
 <img src="https://github.com/mauzware/mauzware/blob/main/Wireshark.png" style="height: 30px; width: 150px;"/> <img src="https://github.com/mauzware/mauzware/blob/main/Linux.png" style="height: 30px; width: 150px;"/>
