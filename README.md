@@ -54,4 +54,5 @@
 
 Coming soon...
 
+<img src="https://github.com/mauzware/mauzware/blob/main/me%20life%20gif.gif?raw=true"/>
 
