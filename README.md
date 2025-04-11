@@ -1,4 +1,4 @@
-<img src="https://github.com/m4uzw4r3/m4uzw4r3/blob/main/anonymous%20gif%202.gif?raw=true" width="100%"/>
+<img src="https://github.com/mauzware/mauzware/blob/main/anonymous%20gif%202.gif?raw=true" width="100%"/>
 
 
 
@@ -6,6 +6,7 @@
 
 🐭🐁 My name is Mauzware, also known as Jerry, I'm an Ethical Hacker & Security Researcher and aspiring Cybersecurity Specialist & Penetretation Tester. I do a fair bit of coding as well! With a strong passion for technology and expertise in vulnerability assessment, payload creation and programming languages, my goal is to safeguard digital assets and learn literally everything about digital world. And yes, I am a mouse!!! 🐭🐁
 
+<img src="https://github.com/mauzware/mauzware/blob/main/anonymous%20logo%20gif.gif?raw=true"/>
 
 ## Present Status
 
