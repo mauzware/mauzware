@@ -1,17 +1,18 @@
 <img src="https://github.com/mauzware/mauzware/blob/main/anonymous%20gif%202.gif?raw=true" width="100%"/>
 
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
-  <h2>Hi there 👋</h2>
+    <h2>Hello there 👋</h2>
   <p>
   🐭🐁 My name is Mauzware, also known as Jerry, I'm an Ethical Hacker & Security Researcher and aspiring Cybersecurity Specialist & Penetretation Tester. I do a fair bit of coding as well! With a strong passion for technology and expertise in vulnerability assessment, payload creation and programming languages, my goal is to safeguard digital assets and learn literally everything about digital world. And yes, I am a mouse!!! 🐭🐁
   </p>
   </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://github.com/mauzware/mauzware/blob/main/anonymous%20logo%20gif.gif?raw=true" width="250px" style="background: transparent;"/>
+  <div style="flex-shrink: 0; padding-left: 500px;">
+    <img src="https://github.com/mauzware/mauzware/blob/main/anonymous_logo_transparent.gif?raw=true" width="250px" alt="gif">
   </div>
 </div>
+
+
 
 ## Present Status
 
