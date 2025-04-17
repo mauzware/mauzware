@@ -1,7 +1,6 @@
 <img src="https://github.com/mauzware/mauzware/blob/main/anonymous%20gif%202.gif?raw=true" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=46F71F&center=true&vCenter=true&width=435&lines=Watch+Me+Become+Great+PenTester)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF724&center=true&vCenter=true&width=1000&lines=Watch+Me+Become+Great+Pentester)](https://git.io/typing-svg)
 
 <table style="border: none; border="0";">
   <tr>
@@ -19,7 +18,7 @@
 
 <details close>
 
-  <summary><i>More info about me</i></summary>
+  <summary><i>More info about me:</i></summary>
 
   put text here
 
