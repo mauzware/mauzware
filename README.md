@@ -1,5 +1,8 @@
 <img src="https://github.com/mauzware/mauzware/blob/main/anonymous%20gif%202.gif?raw=true" width="100%"/>
 
+
+
+
 <table style="border: none; border="0";">
   <tr>
     <td style="border: none; border="0";">
@@ -14,7 +17,13 @@
   </tr>
 </table>
 
+<details close>
 
+  <summary><i>More info about me</i></summary>
+
+  put text here
+
+</details>
 
 <table style="style="border: none; border="0";">
   <tr>
