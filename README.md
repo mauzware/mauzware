@@ -1,7 +1,5 @@
 <img src="https://github.com/mauzware/mauzware/blob/main/anonymous%20gif%202.gif?raw=true" width="100%"/>
-<!--  
-<script src="https://github.com/mauzware/mauzware.github.io/blob/main/index.js"></script>
--->
+
 <table style="border: none; border="0";">
   <tr>
     <td style="border: none; border="0";">
