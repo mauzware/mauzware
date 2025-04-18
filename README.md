@@ -2,19 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF724&center=true&vCenter=true&width=1000&lines=Watch+Me+Become+Great+Pentester)](https://git.io/typing-svg)
 
-<table style="border: none; border="0";">
-  <tr>
-    <td style="border: none; border="0";">
-      <h2>Hello_friend. 👋</h2>
-      <p>
-        🐭🐁 My name is mauzware, also known as Jerry, I'm an Ethical Hacker & Security Researcher and aspiring Cybersecurity Specialist & Penetration Tester. I do a fair bit of coding as well! My goal is to safeguard digital assets and learn as much as I can about digital world. Let's make our world a safer place one vulnerability at a time. And yes, I am a mouse!!! 🐭🐁
-      </p>
-    </td>
-    <td style="border: none; border="0";">
-      <img src="https://github.com/mauzware/mauzware/blob/main/anonymous_logo_transparent.gif?raw=true" width="250px">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h2 align="left">
+  Hello there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+  </h2>
+  <p align="left">🐭🐁 My name is mauzware, also known as Jerry, I'm an Ethical Hacker & Security Researcher and aspiring Cybersecurity Specialist & Penetration Tester. I do a fair bit of coding as well! My goal is to safeguard digital assets and learn as much as I can about digital world. Let's make our world a safer place one vulnerability at a time. And yes, I am a mouse!!! 🐭🐁</p>
+
+  <img align='right' src="https://github.com/mauzware/mauzware/blob/main/anonymous_logo_transparent.gif?raw=true" width="200px">
+</div>
 
 <details close>
 
@@ -30,12 +26,15 @@
   <li><i>cookiescoookiescookiescookies</i>🍪</li>
 
 </details>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<table style="style="border: none; border="0";">
-  <tr>
-    <td style="style="border: none; border="0";">
+<h2 align="left">Present Status 📊</h2>
 
-### Present Status 📊
+<img align='right' src="https://github.com/mauzware/mauzware/blob/main/jerry%20gif.gif?raw=true" width="200px" height="300px">
 
 👉 Still learning Bug Hunting & Web Application Pentesting. 🐞
 
@@ -49,14 +48,8 @@
 
 👉 Currently pursuing CompTIA Security+ & CEH Certifications. 📜
  
-📫 Feel free to reach out if you want to Hack or Code together! Before you do that, just get me a Cookie 🍪  
+📫 Feel free to reach out if you want to Hack or Code together! Before you do that, just get me a Cookie 🍪 
 
-</td>
-<td style="border: none; border="0";">
-  <img src="https://github.com/mauzware/mauzware/blob/main/jerry%20gif.gif?raw=true" width="100px" height="350px">
-</td>
-</tr>
-</table>
 
 ## Knowledge / Skills / Tools 💡
 
@@ -64,13 +57,12 @@
 
 
 
-
-
-
-
-## Fun Section 😎
+<h2 align="left">Fun Section 😎</h2>
 
 <i>Since I'm always making good jokes people call me Joka...Got it...???</i> 
 
 <img src="https://github.com/mauzware/mauzware/blob/main/DAJOKA.png" height= 300 width=200/><img src="https://github.com/mauzware/mauzware/blob/main/me%20life%20gif.gif?raw=true" width="200" height="200"/> <img src="https://github.com/mauzware/mauzware/blob/main/jerry%20gif%202.gif?raw=true" width="200" height="200"/>
 <i>(no one calls me that tho)</i>
+
+
+
