@@ -34,7 +34,7 @@
 
 <h2 align="left">Present Status 📊</h2>
 
-<img align='right' src="https://github.com/mauzware/mauzware/blob/main/jerry%20gif.gif?raw=true" width="150px" height="200px">
+<img align='right' src="https://github.com/mauzware/mauzware/blob/main/jerry%20gif.gif?raw=true" width="150px" height="250px">
 
 👉 Still learning Bug Hunting & Web Application Pentesting. 🐞
 
