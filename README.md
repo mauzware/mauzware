@@ -72,16 +72,9 @@
 <img align="right" height="450" width="400" src="https://github-readme-stats.vercel.app/api?username=mauzware&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 -->
 
-<!-- 
-![Snake animation](https://github.com/mauzware/mauzware/blob/output/github-contribution-grid-snake.svg) 
--->
+![Snake animation](https://github.com/mauzware/mauzware/blob/output/github-contribution-grid-snake-dark.svg) 
 
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
--->
+
+
 
 
