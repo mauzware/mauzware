@@ -5,9 +5,9 @@
 <table style="border: none; border="0";">
   <tr>
     <td style="border: none; border="0";">
-      <h2>hello friend. 👋</h2>
+      <h2>Hello_friend. 👋</h2>
       <p>
-        🐭🐁 My name is Mauzware, also known as Jerry, I'm an Ethical Hacker & Security Researcher and aspiring Cybersecurity Specialist & Penetration Tester. I do a fair bit of coding as well! My goal is to safeguard digital assets and learn as much as I can about digital world. Let's make our world a safer place one vulnerability at a time. And yes, I am a mouse!!! 🐭🐁
+        🐭🐁 My name is mauzware, also known as Jerry, I'm an Ethical Hacker & Security Researcher and aspiring Cybersecurity Specialist & Penetration Tester. I do a fair bit of coding as well! My goal is to safeguard digital assets and learn as much as I can about digital world. Let's make our world a safer place one vulnerability at a time. And yes, I am a mouse!!! 🐭🐁
       </p>
     </td>
     <td style="border: none; border="0";">
@@ -20,7 +20,14 @@
 
   <summary><i>More info about me:</i></summary>
 
-  put text here
+  <li><i>Location: Middle of Nowhere</i></li>
+  <li><i>Name: mauzware</i></li>
+  <li><i>Hacker | Coder | Security Researcher</i></li>
+  <li><i>Never stop learning!</i></li>
+  <li><i>Yeah, I'm a hardcore gamer duuuh...</i></li>
+  <li><i>Anime 4 Life</i></li>
+  <li><i>Music: Hip-Hop, DnB, Psy, Synthwave</i></li>
+  <li><i>cookiescoookiescookiescookies</i>🍪</li>
 
 </details>
 
@@ -32,7 +39,7 @@
 
 👉 Still learning Bug Hunting & Web Application Pentesting. 🐞
 
-👉 Still learning Go and C. 🐞
+👉 Still learning Go and C. 🔋
 
 👉 Writing some useful tools for myself & communities. 💻
 
@@ -41,9 +48,7 @@
 👉 Currently learning Mobile Pentesting & Reverse Engineering. 📱
 
 👉 Currently pursuing CompTIA Security+ & CEH Certifications. 📜
-
-⚡ Fun fact: yeah, I'm a hardcore gamer duuuuh... 🎮 
-
+ 
 📫 Feel free to reach out if you want to Hack or Code together! Before you do that, just get me a Cookie 🍪  
 
 </td>
