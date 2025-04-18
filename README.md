@@ -50,12 +50,13 @@
  
 📫 Feel free to reach out if you want to Hack or Code together! Before you do that, just get me a Cookie 🍪 
 
+---
 
 ## Knowledge / Skills / Tools 💡
 
 <img src="https://img.shields.io/badge/Metasploit-style?style=for-the-badge&logo=metasploit&color=black" /> <img src="https://img.shields.io/badge/Burpsuite-style?style=for-the-badge&logo=burpsuite&color=black" /> <img src="https://img.shields.io/badge/OWASP%20Zap-style?style=for-the-badge&logo=zap&color=black" /> <img src="https://img.shields.io/badge/Wireshark-style?style=for-the-badge&logo=wireshark&color=black" /> <img src="https://img.shields.io/badge/Windows-style?style=for-the-badge&color=black" /> <img src="https://img.shields.io/badge/Linux-style?style=for-the-badge&logo=linux&color=black" /> <img src="https://img.shields.io/badge/Kali%20Linux-style?style=for-the-badge&logo=kalilinux&color=black" /> <img src="https://img.shields.io/badge/Debian-style?style=for-the-badge&logo=debian&color=black" /> <img src="https://img.shields.io/badge/Ubuntu-style?style=for-the-badge&logo=ubuntu&color=black" /> <img src="https://img.shields.io/badge/Git-style?style=for-the-badge&logo=git&color=black" /> <img src="https://img.shields.io/badge/GitHub-style?style=for-the-badge&logo=github&color=black" /> <img src="https://img.shields.io/badge/VirtualBox-style?style=for-the-badge&logo=virtualbox&color=black" /> <img src="https://img.shields.io/badge/VS%20Code-style?style=for-the-badge&color=black" /> <img src="https://img.shields.io/badge/PowerShell-style?style=for-the-badge&color=black" /> <img src="https://img.shields.io/badge/Bash-style?style=for-the-badge&logo=gnubash&color=black" /> <img src="https://img.shields.io/badge/Python-style?style=for-the-badge&logo=python&color=black" /> <img src="https://img.shields.io/badge/Go-style?style=for-the-badge&logo=go&color=black" /> <img src="https://img.shields.io/badge/C-style?style=for-the-badge&logo=c&color=black" /> <img src="https://img.shields.io/badge/C%2B%2B-style?style=for-the-badge&logo=cplusplus&color=black" /> <img src="https://img.shields.io/badge/HTML5-style?style=for-the-badge&logo=html5&color=black" /> <img src="https://img.shields.io/badge/CSS3-style?style=for-the-badge&logo=css3&color=black" /> <img src="https://img.shields.io/badge/JavaScript-style?style=for-the-badge&logo=javascript&color=black" /> <img src="https://img.shields.io/badge/PostgreSQL-style?style=for-the-badge&logo=postgresql&color=black" /> <img src="https://img.shields.io/badge/MySQL-style?style=for-the-badge&logo=mysql&color=black" /> <img src="https://img.shields.io/badge/SQLite-style?style=for-the-badge&logo=sqlite&color=black" /> <img src="https://img.shields.io/badge/TryHackMe-style?style=for-the-badge&logo=tryhackme&color=black" /> <img src="https://img.shields.io/badge/Hack%20The%20Box-style?style=for-the-badge&logo=hackthebox&color=black" /> <img src="https://img.shields.io/badge/PortSwigger-style?style=for-the-badge&logo=portswigger&color=black" /> <img src="https://img.shields.io/badge/HackerOne-style?style=for-the-badge&logo=hackerone&color=black" /> <img src="https://img.shields.io/badge/Intigriti-style?style=for-the-badge&logo=intigriti&color=black" /> <img src="https://img.shields.io/badge/Bugcrowd-style?style=for-the-badge&logo=bugcrowd&color=black" />
 
-
+---
 
 <h2 align="left">Fun Section 😎</h2>
 
@@ -63,6 +64,12 @@
 
 <img src="https://github.com/mauzware/mauzware/blob/main/DAJOKA.png" height= 300 width=200/><img src="https://github.com/mauzware/mauzware/blob/main/me%20life%20gif.gif?raw=true" width="200" height="200"/> <img src="https://github.com/mauzware/mauzware/blob/main/jerry%20gif%202.gif?raw=true" width="200" height="200"/>
 <i>(no one calls me that tho)</i>
+
+---
+
+![Snake animation](https://github.com/mauzware/mauzware/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
