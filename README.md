@@ -11,7 +11,7 @@
   Hello there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
   </h2>
-  <p align="left">🐭🐁 My name is mauzware, also known as Jerry, I'm an Ethical Hacker & Security Researcher and aspiring Cybersecurity Specialist & Penetration Tester. I do a fair bit of coding as well! My goal is to safeguard digital assets and learn as much as I can about digital world. Let's make our world a safer place one vulnerability at a time. And yes, I am a mouse!!! 🐭🐁</p>
+  <p align="left">🐭🐁 My name is mauzware, also known as Jerry, I'm an Ethical Hacker & Security Researcher and aspiring Cybersecurity Specialist & Penetration Tester. I do a fair bit of coding as well, also I adore Data Science! My goal is to safeguard digital assets and learn as much as I can about digital world. Let's make our world a safer place one vulnerability at a time. And yes, I am a mouse!!! 🐭🐁</p>
 
   <img align='right' src="https://github.com/mauzware/mauzware/blob/main/anonymous_logo_transparent.gif?raw=true" width="200px">
 </div>
@@ -22,7 +22,7 @@
 
   <li><i>Location: Middle of Nowhere</i></li>
   <li><i>Name: mauzware</i></li>
-  <li><i>Hacker | Coder | Security Researcher</i></li>
+  <li><i>Hacker | Coder | Security Researcher | Data Scientist</i></li>
   <li><i>Never stop learning!</i></li>
   <li><i>Yeah, I'm a hardcore gamer duuuh...</i></li>
   <li><i>Anime 4 Life</i></li>
