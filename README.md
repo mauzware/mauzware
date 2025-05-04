@@ -68,7 +68,7 @@
 
 Created by [mauzware](https://github.com/mauzware)
 
-[View project repository](https://github.com/mauzware/Mauzalyzer)
+[<img src="https://img.shields.io/badge/Mauzalyzer-style?style=for-the-badge&color=black" />](https://github.com/mauzware/Mauzalyzer)
 
 
 ---
