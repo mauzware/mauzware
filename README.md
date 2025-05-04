@@ -62,11 +62,22 @@
 
 ---
 
-<h2 align="left">Fun Section 😎</h2>
+## 🔍 Mauzalyzer
+
+**Ultimate Duplicate & Similarity Analyzer**
+
+Created by [mauzware](https://github.com/mauzware)
+
+[View project repository](https://github.com/mauzware/Mauzalyzer)
+
+
+---
+
+<h2 align="left">Funzzzzzies 😎</h2>
 
 <i>Since I'm always making good jokes people call me Joka...Got it...???</i> 
 
-<img src="https://github.com/mauzware/mauzware/blob/main/DAJOKA.png" height= 300 width=200/><img src="https://github.com/mauzware/mauzware/blob/main/me%20life%20gif.gif?raw=true" width="200" height="200"/> <img src="https://github.com/mauzware/mauzware/blob/main/jerry%20gif%202.gif?raw=true" width="200" height="200"/> <img src="https://github.com/mauzware/mauzware/blob/main/jerry%20laugh.gif?raw=tru" width="200" height="200"/>
+<img src="https://github.com/mauzware/mauzware/blob/main/DAJOKA.png" height= 300 width=200/><img src="https://github.com/mauzware/mauzware/blob/main/me%20life%20gif.gif?raw=true" width="200" height="300"/> <img src="https://github.com/mauzware/mauzware/blob/main/jerry%20gif%202.gif?raw=true" width="200" height="300"/> <img src="https://github.com/mauzware/mauzware/blob/main/jerry%20laugh.gif?raw=tru" width="200" height="300"/>
 <br><i>(no one calls me that tho)</i>
 
 ---
