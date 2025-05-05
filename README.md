@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF724&center=true&vCenter=true&width=1000&lines=Watch+Me+Become+Great+Pentester)](https://git.io/typing-svg)
 
+[<img align='center' src="https://github.com/mauzware/mauzware/blob/main/LOGO%20CUT.png"/>](https://github.com/mauzware)
+
 <div align="center">
   <h2 align="left">
   Hello there!
