@@ -67,12 +67,13 @@
 
 ## 🔍 Mauzalyzer
 
-**Ultimate Duplicate & Similarity Analyzer**
-
-Created by [mauzware](https://github.com/mauzware)
+**Ultimate Duplicate & Similarity Analyzer**   
 
 [<img src="https://img.shields.io/badge/Mauzalyzer-style?style=for-the-badge&color=black" />](https://github.com/mauzware/Mauzalyzer)
 
+<br>
+
+Created by [<img src="https://github.com/mauzware/mauzware/blob/main/LOGO%20CUT.png" width="120px" height="40px"/>](https://github.com/mauzware)
 
 ---
 
