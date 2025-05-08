@@ -65,7 +65,7 @@
 
 ---
 
-## 🔍 Mauzalyzer
+## Mauzalyzer 🔍
 
 **Ultimate Duplicate & Similarity Analyzer**   
 
@@ -92,4 +92,8 @@ Created by [<img src="https://github.com/mauzware/mauzware/blob/main/LOGO%20CUT.
 <img align="47%" src="https://github-readme-stats.vercel.app/api?username=mauzware&show_icons=true&theme=tokyonight" /> <img align="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauzware&layout=compact&theme=tokyonight" />
 -->
 
+---
 
+## Adios 👑
+
+<img src="https://github.com/mauzware/mauzware/blob/main/gojo.gif?raw=true" width="100%"/>
