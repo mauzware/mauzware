@@ -11,7 +11,7 @@
 
 <div align="center">
   <h2 align="left">
-  Hello there!
+  <i>Hello there!</i>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
   </h2>
   <p align="left">🐭🐁 My name is mauzware, also known as Jerry, I'm an Ethical Hacker & Security Researcher and aspiring Cybersecurity Specialist & Penetration Tester. I do a fair bit of coding as well, also I adore Data Science! My goal is to safeguard digital assets and learn as much as I can about digital world. Let's make our world a safer place one vulnerability at a time. And yes, I am a mouse!!! 🐭🐁</p>
@@ -39,7 +39,7 @@
 <br>
 <br>
 
-<h2 align="left">Present Status 📊</h2>
+<h2 align="left"><i>Present Status</i> 📊</h2>
 
 <img align='right' src="https://github.com/mauzware/mauzware/blob/main/jerry%20gif.gif?raw=true" width="150px" height="250px">
 
@@ -59,13 +59,13 @@
 
 ---
 
-## Knowledge / Skills / Tools 💡
+## <i>Knowledge / Skills / Tools</i> 💡
 
 <img src="https://img.shields.io/badge/Metasploit-style?style=for-the-badge&logo=metasploit&color=black" /> <img src="https://img.shields.io/badge/Burpsuite-style?style=for-the-badge&logo=burpsuite&color=black" /> <img src="https://img.shields.io/badge/OWASP%20Zap-style?style=for-the-badge&logo=zap&color=black" /> <img src="https://img.shields.io/badge/Wireshark-style?style=for-the-badge&logo=wireshark&color=black" /> <img src="https://img.shields.io/badge/Windows-style?style=for-the-badge&color=black" /> <img src="https://img.shields.io/badge/Linux-style?style=for-the-badge&logo=linux&color=black" /> <img src="https://img.shields.io/badge/Kali%20Linux-style?style=for-the-badge&logo=kalilinux&color=black" /> <img src="https://img.shields.io/badge/Debian-style?style=for-the-badge&logo=debian&color=black" /> <img src="https://img.shields.io/badge/Ubuntu-style?style=for-the-badge&logo=ubuntu&color=black" /> <img src="https://img.shields.io/badge/Git-style?style=for-the-badge&logo=git&color=black" /> <img src="https://img.shields.io/badge/GitHub-style?style=for-the-badge&logo=github&color=black" /> <img src="https://img.shields.io/badge/VirtualBox-style?style=for-the-badge&logo=virtualbox&color=black" /> <img src="https://img.shields.io/badge/VS%20Code-style?style=for-the-badge&color=black" /> <img src="https://img.shields.io/badge/PowerShell-style?style=for-the-badge&color=black" /> <img src="https://img.shields.io/badge/Bash-style?style=for-the-badge&logo=gnubash&color=black" /> <img src="https://img.shields.io/badge/Python-style?style=for-the-badge&logo=python&color=black" /> <img src="https://img.shields.io/badge/Go-style?style=for-the-badge&logo=go&color=black" /> <img src="https://img.shields.io/badge/C-style?style=for-the-badge&logo=c&color=black" /> <img src="https://img.shields.io/badge/C%2B%2B-style?style=for-the-badge&logo=cplusplus&color=black" /> <img src="https://img.shields.io/badge/HTML5-style?style=for-the-badge&logo=html5&color=black" /> <img src="https://img.shields.io/badge/CSS3-style?style=for-the-badge&logo=css3&color=black" /> <img src="https://img.shields.io/badge/JavaScript-style?style=for-the-badge&logo=javascript&color=black" /> <img src="https://img.shields.io/badge/PostgreSQL-style?style=for-the-badge&logo=postgresql&color=black" /> <img src="https://img.shields.io/badge/MySQL-style?style=for-the-badge&logo=mysql&color=black" /> <img src="https://img.shields.io/badge/SQLite-style?style=for-the-badge&logo=sqlite&color=black" /> <img src="https://img.shields.io/badge/TryHackMe-style?style=for-the-badge&logo=tryhackme&color=black" /> <img src="https://img.shields.io/badge/Hack%20The%20Box-style?style=for-the-badge&logo=hackthebox&color=black" /> <img src="https://img.shields.io/badge/PortSwigger-style?style=for-the-badge&logo=portswigger&color=black" /> <img src="https://img.shields.io/badge/HackerOne-style?style=for-the-badge&logo=hackerone&color=black" /> <img src="https://img.shields.io/badge/Intigriti-style?style=for-the-badge&logo=intigriti&color=black" /> <img src="https://img.shields.io/badge/Bugcrowd-style?style=for-the-badge&logo=bugcrowd&color=black" />
 
 ---
 
-## Mauzalyzer 🔍
+## <i>Mauzalyzer</i> 🔍
 
 **Ultimate Duplicate & Similarity Analyzer**   
 
@@ -77,7 +77,7 @@ Created by [<img src="https://github.com/mauzware/mauzware/blob/main/LOGO%20CUT.
 
 ---
 
-<h2 align="left">Funzzzzzies 😎</h2>
+<h2 align="left"><i>Funzzzzzies</i> 😎</h2>
 
 <i>Since I'm always making good jokes people call me Joka...Got it...???</i> 
 
@@ -94,6 +94,6 @@ Created by [<img src="https://github.com/mauzware/mauzware/blob/main/LOGO%20CUT.
 
 ---
 
-## Adios 👑
+## <i>Adios</i> 👑
 
 <img src="https://github.com/mauzware/mauzware/blob/main/gojo.gif?raw=true" width="100%"/>
