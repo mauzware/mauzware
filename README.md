@@ -94,6 +94,6 @@ Created by [<img src="https://github.com/mauzware/mauzware/blob/main/LOGO%20CUT.
 
 ---
 
-## <i>Adios</i> 👑
+## <i>さよなら！</i> 👑
 
 <img src="https://github.com/mauzware/mauzware/blob/main/gojo.gif?raw=true" width="100%"/>
