@@ -1,6 +1,6 @@
 <img src="https://github.com/mauzware/mauzware/blob/main/anonymous%20gif%202.gif?raw=true" width="100%"/>
 
-[<img align='center' src="https://github.com/mauzware/mauzware/blob/main/LOGO%20CUT.png"/>](https://github.com/mauzware)
+[<img align='center' src="https://github.com/mauzware/mauzware/blob/main/LOGO%20NEW.png"/>](https://github.com/mauzware)
 
 <p align="center">
   <img height="40" src="https://github.com/mauzware/mauzware/blob/main/hacktheworld.gif?raw=true"/>
@@ -73,7 +73,7 @@
 
 <br>
 
-Created by [<img src="https://github.com/mauzware/mauzware/blob/main/LOGO%20CUT.png" width="120px" height="40px"/>](https://github.com/mauzware)
+Created by [<img src="https://github.com/mauzware/mauzware/blob/main/LOGO%20NEW.png" width="120px" height="40px"/>](https://github.com/mauzware)
 
 ---
 
