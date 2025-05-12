@@ -73,7 +73,7 @@
 
 <br>
 
-Created by [<img src="https://github.com/mauzware/mauzware/blob/main/LOGO%20NEW.png" width="120px" height="40px"/>](https://github.com/mauzware)
+Created by [<img src="https://github.com/mauzware/mauzware/blob/main/LOGO%20NEW.png" width="140px" height="40px"/>](https://github.com/mauzware)
 
 ---
 
