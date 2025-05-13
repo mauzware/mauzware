@@ -65,11 +65,17 @@
 
 ---
 
-## <i>Mauzalyzer</i> 🔍
+## <i>Mauzalyzer & Crack-A-Mauz</i> 🔍
 
 **Ultimate Duplicate & Similarity Analyzer**   
 
 [<img src="https://img.shields.io/badge/Mauzalyzer-style?style=for-the-badge&color=black" />](https://github.com/mauzware/Mauzalyzer)
+
+<br>
+
+**Professional Hacking Tool**
+
+[<img src="https://img.shields.io/badge/CrackAMauz-style?style=for-the-badge&color=black" />](https://github.com/mauzware/Crack-A-Mauz)
 
 <br>
 
