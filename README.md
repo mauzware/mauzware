@@ -44,9 +44,9 @@
 
 <img align='right' src="https://github.com/mauzware/mauzware/blob/main/jerry%20gif.gif?raw=true" width="150px" height="250px">
 
-👉 Still learning Bug Hunting & Web Application Pentesting. 🐞
+👉 Still practicing Bug Hunting & Web Application Pentesting. 🐞
 
-👉 Still learning Go and C. 🔋
+👉 Learning, pwning, and dropping writeups. 🔋
 
 👉 Writing some useful tools for myself & communities. 💻
 
@@ -56,7 +56,7 @@
 
 👉 Currently pursuing CompTIA Security+ & CEH Certifications. 📜
  
-📫 Feel free to reach out if you want to Hack or Code together! Before you do that, just get me a Cookie 🍪 
+📫 Ping me if you want to Hack or Code together! Before you do that, just get me a Cookie 🍪 
 
 ---
 
