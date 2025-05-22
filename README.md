@@ -84,7 +84,7 @@ Created by [<img src="https://github.com/mauzware/mauzware/blob/main/LOGO%20NEW.
 
 ---
 
-<h2 align="left">😎 <i>Funzzzzzies</i> 😎</h2>
+## 😎 <i>Funzzzzzies</i> 😎
 
 <i>Since I'm always making good jokes people call me Joka...Got it...???</i> 
 
@@ -98,6 +98,17 @@ Created by [<img src="https://github.com/mauzware/mauzware/blob/main/LOGO%20NEW.
 <!--
 <img align="47%" src="https://github-readme-stats.vercel.app/api?username=mauzware&show_icons=true&theme=tokyonight" /> <img align="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauzware&layout=compact&theme=tokyonight" />
 -->
+
+---
+
+## 🔗 <i>Connect with me</i> 🔗
+
+<div align="center">
+  <a href="https://github.com/mauzware"><img src="https://img.shields.io/badge/GitHub-style?style=for-the-badge&logo=github&color=black" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/filip-milenkovic-576a73228/"><img src="https://img.shields.io/badge/LinkedIn-style?style=for-the-badge&color=blue" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@mauzware"><img src="https://img.shields.io/badge/Medium-style?style=for-the-badge&logo=medium&color=black" alt="Medium"/></a>
+  <a href="https://tryhackme.com/p/mauzinho"><img src="https://img.shields.io/badge/TryHackMe-style?style=for-the-badge&logo=tryhackme&color=grey" alt="TryHackMe"/></a>
+</div>
 
 ---
 
