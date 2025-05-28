@@ -68,8 +68,8 @@
   <img src="https://img.shields.io/badge/OWASP%20Zap-style?style=for-the-badge&logo=zap&color=black" alt="OWASP Zap"/> 
   <img src="https://img.shields.io/badge/Wireshark-style?style=for-the-badge&logo=wireshark&color=black" alt="Wireshark"/> 
   <img src="https://img.shields.io/badge/Windows-style?style=for-the-badge&color=black" alt="Windows"/> 
-  <img src="https://img.shields.io/badge/Linux-style?style=for-the-badge&logo=linux&color=black" alt="Linux"/> 
-  <img src="https://img.shields.io/badge/Kali%20Linux-style?style=for-the-badge&logo=kalilinux&color=black" alt="Kali"/> 
+  <img src="https://img.shields.io/badge/linux-style?style=for-the-badge&logo=linux&color=black" alt="Linux"/> 
+  <img src="https://img.shields.io/badge/Kali%20linux-style?style=for-the-badge&logo=kalilinux&logoColor=white&color=black" alt="Kali"/> 
   <img src="https://img.shields.io/badge/Debian-style?style=for-the-badge&logo=debian&color=black" alt="Debian"/> 
   <img src="https://img.shields.io/badge/Ubuntu-style?style=for-the-badge&logo=ubuntu&color=black" alt="Ubuntu"/> 
   <img src="https://img.shields.io/badge/Git-style?style=for-the-badge&logo=git&color=black" alt="Git"/> 
@@ -85,14 +85,14 @@
   <img src="https://img.shields.io/badge/HTML5-style?style=for-the-badge&logo=html5&color=black" alt="HTML"/> 
   <img src="https://img.shields.io/badge/CSS3-style?style=for-the-badge&logo=css3&color=black" alt="CSS"/> 
   <img src="https://img.shields.io/badge/JavaScript-style?style=for-the-badge&logo=javascript&color=black" alt="JavaScript"/> 
-  <img src="https://img.shields.io/badge/PostgreSQL-style?style=for-the-badge&logo=postgresql&color=black" alt="PostgreSQL"/> 
-  <img src="https://img.shields.io/badge/MySQL-style?style=for-the-badge&logo=mysql&color=black" alt="MySQL"/> 
-  <img src="https://img.shields.io/badge/SQLite-style?style=for-the-badge&logo=sqlite&color=black" alt="SQLite"/> 
+  <img src="https://img.shields.io/badge/PostgreSQL-style?style=for-the-badge&logo=postgresql&logoColor=white&color=black" alt="PostgreSQL"/> 
+  <img src="https://img.shields.io/badge/MySQL-style?style=for-the-badge&logo=mysql&logoColor=white&color=black" alt="MySQL"/> 
+  <img src="https://img.shields.io/badge/SQLite-style?style=for-the-badge&logo=sqlite&color=black" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/AWS-style?style=for-the-badge&logo=amazonwebservices&color=black" alt="AmazonAWS"/>
   <img src="https://img.shields.io/badge/TryHackMe-style?style=for-the-badge&logo=tryhackme&color=black" alt="TryHackMe"/> 
   <img src="https://img.shields.io/badge/Hack%20The%20Box-style?style=for-the-badge&logo=hackthebox&color=black" alt="Hack The Box"/>  
   <img src="https://img.shields.io/badge/HackerOne-style?style=for-the-badge&logo=hackerone&color=black" alt="HackerOne"/> 
   <img src="https://img.shields.io/badge/Intigriti-style?style=for-the-badge&logo=intigriti&color=black" alt="Intigriti"/> 
-  <img src="https://img.shields.io/badge/Bugcrowd-style?style=for-the-badge&logo=bugcrowd&color=black" alt="Bugcrowd"/>
 </div>
 
 ---
