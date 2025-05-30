@@ -22,7 +22,7 @@
 
 <details close>
 
-  <summary><i>More info about me:</i></summary>
+  <summary>aws ec2 describe-instances --profile viralBoi</summary>
 
   <li><i>Location: Middle of Nowhere</i></li>
   <li><i>Name: mauzware</i></li>
