@@ -52,11 +52,12 @@
 
 👉 Always open to building & contributing to Open Source projects! 🦾
 
-👉 Currently learning Mobile Pentesting & Reverse Engineering. 📱
+👉 Currently learning Malware Development, Binary Exploitation & Reverse Engineering. 💥
 
-👉 Currently pursuing CompTIA Security+ & CEH Certifications. 📜
+👉 Currently pursuing PJPT, PWPA & OSCP Certifications. 📜
  
-📫 Ping me if you want to Hack or Code together! Before you do that, just get me a Cookie 🍪 
+📫 Ping me if you want to Hack or Code together! 
+> Before you do that, just get me a Cookie 🍪 
 
 ---
 
@@ -97,23 +98,44 @@
 
 ---
 
-## 🔍 <i>Mauzalyzer & Crack-A-Mauz</i> 🔍
+## 🖥️ <i>mauzware's Project Hub</i> 🖥️
 
-**Ultimate Duplicate & Similarity Analyzer**   
+**Projects**   
 
-[<img src="https://img.shields.io/badge/Mauzalyzer-style?style=for-the-badge&color=black" />](https://github.com/mauzware/Mauzalyzer)
+>┌──(mauzware㉿github)-[~] </br>
+>└─$ ls -la ~/mauzware_projects
+
+| Project         | Description                                | Tech Stack       |
+|-----------------|--------------------------------------------|------------------|
+| [<img src="https://img.shields.io/badge/Mauzalyzer-style?style=for-the-badge&color=black" />](https://github.com/mauzware/Mauzalyzer) | Data Duplicate & Similarity Analysis CLI Tool | Python |
+| [<img src="https://img.shields.io/badge/CrackAMauz-style?style=for-the-badge&color=yellow" />](https://github.com/mauzware/Crack-A-Mauz) | Professional Hacking Tool | Python |
+| [<img src="https://img.shields.io/badge/Scripting-style?style=for-the-badge&color=red" />](https://github.com/mauzware/Random-Scripts) | Random Hacking Scripts | Python, Bash, PHP |
+| [<img src="https://img.shields.io/badge/Decoding-style?style=for-the-badge&color=green" />](https://github.com/mauzware/Decoding-Scripts) | Decoding Scripts | Python, Bash |
+| [<img src="https://img.shields.io/badge/C%20Projects-style?style=for-the-badge&color=blue" />](https://github.com/mauzware/can-you-C-me) | C Projects I Made While Learning | C |
+| [<img src="https://img.shields.io/badge/Password%20Generator-style?style=for-the-badge&color=orange" />](https://github.com/mauzware/Password-Generator) | Password Generator | Python |
+| [<img src="https://img.shields.io/badge/Snake%20Game-style?style=for-the-badge&color=purple" />](https://github.com/mauzware/OG-Snake-Game) | OG Snake Game | Python |
 
 <br>
 
-**Professional Hacking Tool**
+**Blogs & Writeups**
 
-[<img src="https://img.shields.io/badge/CrackAMauz-style?style=for-the-badge&color=black" />](https://github.com/mauzware/Crack-A-Mauz)
+>┌──(mauzware㉿github)-[~] </br>
+>└─$ strings ~/writeups&adventures.bak
+
+| Link            | Description                                | 
+|-----------------|--------------------------------------------|
+| [<img src="https://img.shields.io/badge/Medium-style?style=for-the-badge&logo=medium&color=black" />](https://medium.com/@mauzware) | All Of My Blogs |
+| [<img src="https://img.shields.io/badge/Cloud%20Pentesting-style?style=for-the-badge&logo=medium&color=blue" />](https://medium.com/@mauzware/recap-7-days-of-aws-pentesting-82abd22ed4a1) | My Cloud Pentesting Journey |
+| [<img src="https://img.shields.io/badge/THM%20CTFs-style?style=for-the-badge&logo=tryhackme&color=green" />](https://github.com/mauzware/THM-CTFs) | TryHackMe Easy CTF Walkthroughs | 
+| [<img src="https://img.shields.io/badge/OverTheWire-style?style=for-the-badge&color=gray" />](https://github.com/mauzware/OverTheWire-Bandit) | OverTheWire Bandit Challenges Walkthrough | 
 
 <br>
 
-<i>Created by</i>
-
-[<img src="https://github.com/mauzware/mauzware/blob/main/BANNER.png" width="140px" height="40px"/>](https://github.com/mauzware)
+<div align="right">
+  <i>Terminal powered by</i>
+  
+  [<img src="https://github.com/mauzware/mauzware/blob/main/BANNER.png" width="140px" height="40px"/>](https://github.com/mauzware)
+</div>
 
 ---
 
@@ -130,7 +152,7 @@
 
 <!--
 <img align="47%" src="https://github-readme-stats.vercel.app/api?username=mauzware&show_icons=true&theme=tokyonight" /> <img align="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauzware&layout=compact&theme=tokyonight" />
--->
+--->
 
 ---
 
