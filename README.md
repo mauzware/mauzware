@@ -98,7 +98,7 @@
 
 ---
 
-## 🖥️ <i>mauzware's Project Hub</i> 🖥️
+## 🐭 <i>mauzware's Project Hub</i> 🐭
 
 **Projects**   
 
