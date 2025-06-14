@@ -126,6 +126,7 @@
 |-----------------|--------------------------------------------|
 | [<img src="https://img.shields.io/badge/Medium-style?style=for-the-badge&logo=medium&color=black" />](https://medium.com/@mauzware) | All Of My Blogs |
 | [<img src="https://img.shields.io/badge/Cloud%20Pentesting-style?style=for-the-badge&logo=medium&color=blue" />](https://medium.com/@mauzware/recap-7-days-of-aws-pentesting-82abd22ed4a1) | My Cloud Pentesting Journey |
+| [<img src="https://img.shields.io/badge/THM%20CTFS-style?style=for-the-badge&logo=tryhackme&color=red" />](https://medium.com/@mauzware/mauzwares-tryhackme-ctf-walkthrough-playlist-668b6309573f) | TryHackMe Medium & Hard CTF Walkthroughs |
 | [<img src="https://img.shields.io/badge/THM%20CTFs-style?style=for-the-badge&logo=tryhackme&color=gray" />](https://github.com/mauzware/THM-CTFs) | TryHackMe Easy CTF Walkthroughs | 
 | [<img src="https://img.shields.io/badge/HTB%20CTFS-style?style=for-the-badge&logo=hackthebox&color=green" />](https://github.com/mauzware/HTB-CTFs) | Hack The Box Easy CTF Walkthroughs |
 | [<img src="https://img.shields.io/badge/OverTheWire-style?style=for-the-badge&color=yellow" />](https://github.com/mauzware/OverTheWire-Bandit) | OverTheWire Bandit Challenges Walkthroughs | 
