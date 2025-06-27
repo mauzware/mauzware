@@ -102,7 +102,7 @@
 
 **Projects**   
 
->┌──(mauzware㉿github)-[~] </br>
+>┌──(mauzware🐭github)-[~] </br>
 >└─$ ls -la ~/mauzware_projects
 
 | Project         | Description                                | Tech Stack       |
@@ -119,7 +119,7 @@
 
 **Blogs & Writeups**
 
->┌──(mauzware㉿github)-[~] </br>
+>┌──(mauzware🐭github)-[~] </br>
 >└─$ strings ~/writeups&adventures.bak
 
 | Link            | Description                                | 
