@@ -137,7 +137,7 @@
 <div align="right">
   <i>Terminal powered by:</i>
   
-  [<img src="https://github.com/mauzware/mauzware/blob/main/BANNER.png" width="140px" height="40px"/>](https://github.com/mauzware)
+  [<img src="https://github.com/mauzware/mauzware/blob/main/NEWBANNER.png" width="150px" height="70px"/>](https://github.com/mauzware)
 </div>
 
 ---
