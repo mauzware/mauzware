@@ -53,8 +53,6 @@
 👉 Always open to building & contributing to Open Source projects! 🦾
 
 👉 Currently learning Malware Development, Binary Exploitation & Reverse Engineering. 💥
-
-👉 Currently pursuing PJPT, PWPA & OSCP Certifications. 📜
  
 📫 Ping me if you want to Hack or Code together! 
 > Before you do that, just get me a Cookie 🍪 
